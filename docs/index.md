@@ -6,8 +6,8 @@ layout: default
 張郁     
 E-mail: b614103080@tmu.edu.tw    
 ### 說明
-資料檢索時間：2017-10-31
-目前還未完成歌詞收錄的部分,保證在12月前完成。  
+資料檢索時間：2017-10-31   
+目前還未完成歌詞收錄的部分,保證在12月前完成。     
 數據來源：[Bilibili](www.bilibili.com)    [萌娘百科](https://zh.moegirl.org)
 
 ---
