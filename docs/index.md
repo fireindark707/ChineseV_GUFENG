@@ -11,4 +11,4 @@ layout: default
 推薦聽歌：[落櫻謠](http://www.bilibili.com/video/av737993/?from=search&seid=17465627870555694211)
 
 ## [](#header-2)
-![Sakura](blob:https://imgur.com/9b663f76-7d51-4dc5-abe7-42f18941bcf9)
+![Sakura](https://i.imgur.com/inwM1W6.jpg)
