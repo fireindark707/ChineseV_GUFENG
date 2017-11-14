@@ -7,7 +7,8 @@ layout: default
 
 目前還未完成歌詞收錄的部分,保證在12月前完成。
 
-數據來源：bilibili
+數據來源：bilibili  
+推薦聽歌：[落櫻謠](http://www.bilibili.com/video/av737993/?from=search&seid=17465627870555694211)
 
 ## [](#header-2)
-![Air fighter](https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-9/21743341_1436857786397520_8360760092410588100_n.jpg?oh=2ae34dcecbe8a5f73dcd7badca484eda&oe=5A64D66E)
+![Sakura](blob:https://imgur.com/9b663f76-7d51-4dc5-abe7-42f18941bcf9)
