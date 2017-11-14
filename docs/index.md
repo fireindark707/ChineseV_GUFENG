@@ -2,7 +2,6 @@
 layout: default
 ---
 下載請右鍵點擊「鏈接儲存為」
-[論文]（ChineseV_GUFENG/docs/Paper_nationalism.md）
 
 ### 製作
 張郁     
