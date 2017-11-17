@@ -2,7 +2,7 @@
 layout: default
 ---
 資料庫下載請右鍵點擊「鏈接另存為」  
-論文：[「虛擬國族」：中文vocaloid古風曲中的文化國族主義](https://b614103080.github.io/ChineseV_GUFENG/Paper_nationalism)
+論文：「虛擬國族」：中文vocaloid古風曲中的文化國族主義
 ### 製作
 郁郁蔥蔥     
 E-mail: b614103080@tmu.edu.tw    
